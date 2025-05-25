@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "voice-agent-deal-finder",
+  "private_key_id": "5324543aef4787f042a7309dca54d22af4e11a6c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7glfoITl31mGt\nTISBYHxrZ1HDHjZYsmsuRC0IeC3NJEpWRhWCX7lnMyI1UD+2BWDYFGjCjgzAnAL3\n3AjY+djvpqtvSvZGPLHds5h+5CdDx6A0HKDs2P+daGP9kcPd2LT9+afJYZpZPBKI\ne2CSNoeHuLTr89zRC6/U3lYOPPMrVWEG5+4KVX/mvXOeVXo1X46GRNgNpSkEw0Up\nLruh1r33vU62Kt2WGY9+VstmJFJIPUc94lWnTqrHbjzbEXPwi+GUjHNWavvPSaA0\nUymXSKeMqnWTdyGGj09MtAiWqgnM+XMHJZO3Dgo5otNg+gB9tfgDVXsK8mb0q4pF\n+5Nq7v9BAgMBAAECggEABw5/b96W5JPTyjmNI0WLXLXYF32vMgTI7Q1RqotuaPHw\nMD/HhOR9rgWi5OG+359/3COzmdAjhQ4krclkmWcnCwyAUChrN7bqCgoS2yz9Q0zq\nrtC2js36RnqFa+5+lZrQY5coumicw30QUwvPY4hjCz6ZAOgFC+aGMcXRZgxU1HEY\nUr+99VlV4/Qbc5mWvp/9Wb+RsGEp4Rr/sq/sBY483Yj6g7xKquhhmWqGuRPWq/cg\nGmLNQD8NyrouAujEnZAP0G3MYulFp0nx0EJorDSrlsawdBmpAQcwAcLWSci0cSWw\nkw2EFlY0YMj8bdKEdsRX6O6UwbcctnMBe3xhbVIW5wKBgQDqEsLenfQe9Ylykw48\nK+IR1iWnAhdIuwip+8Cd6DDrF+kQIYvMjIcwPyxTWBoyarMDXsNhTjv6wuoYE/jA\nOmSYjxqzLQ3OtuZzrxxG26Y3cS+R14kTWfMgOxRj3GOyTnL7lfTWF2ec2pTuYIVH\nWDXKbv/gI0WWYxjUYdOWJABLjwKBgQDNEvEy2rOm8IXfu6g+aaq+kspooghW5fcd\nwv4jtRC6z8S9OqsHx2WnHI3rX1P9TH1byhs/8M7BVvBBqIFn73KMu0Jer/ncOIH3\nrE4OcSeNyXDykGkWm7h26YRf7urGx0FCE9/o7Wod+AXFP6xGp1QWRBzrQJVvAY0u\njekfFPzgLwKBgQCpXNfI8arf97LyxrpnCS1y0Gq/80BbrJCxRWnyFz3F7LACrvMT\nFp7+Zscwqq+RySgriRZ/QncdkoiE0XaLx/RfejPMbw3tguMt0wb3shgLR4cu1C/n\nY48JxBWVx7IPIroJlU/o1Fhw4qsd65Kjs4yAI15ak8rW7G7bxMiuevAHuwKBgQCH\nwE1IY7ve+4Mzaq7hueMcSmGQyAoLNCnUWrsO+hI8B8NtnEORX65r5BwSPkWD/LlT\nJMPLHOZQ1/MtE5WuLrS+cktqEMWuwP1P7ZCyQLd1RW7uMyhNngGLPeOx+Z8SvN33\nFt72+wpvEjsHqrGpB6VDJA2csWD6XaWOtsQmHieTYwKBgHjwZC7hZ1T7mxVO+7l7\nO61/0hCM8nvvKl0cCRJqevcz1uDkxWJqrIKK7PondenQPkI2jslis54nwZpU2G1r\nILGEGMZjJvT6FqxHBjALbdDO6WSrNogb4dsJPot5JMxSnNTwjKaS16oQAcfCddJJ\nzmVYgvBYI45DINVfy+QX07IH\n-----END PRIVATE KEY-----\n",
+  "client_email": "voice-agent-bot@voice-agent-deal-finder.iam.gserviceaccount.com",
+  "client_id": "104071397425331856440",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voice-agent-bot%40voice-agent-deal-finder.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
